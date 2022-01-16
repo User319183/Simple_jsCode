@@ -1,0 +1,12 @@
+{
+  "name": "simple_jscode",
+  "version": "1.0.0",
+  "description": "**This package is already complete and ready for use**",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
